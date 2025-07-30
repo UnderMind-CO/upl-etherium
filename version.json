@@ -1,13 +1,4 @@
 {
   "version": "0.3",
-  "news": [
-    {
-      "title": "¡Test!",
-      "url": "https://www.dofus.com/es/mmorpg/noticias/actualizaciones"
-    },
-    {
-      "title": "Test Event!",
-      "url": "https://www.dofus.com/es/mmorpg/noticias/eventos"
-    }
-  ]
+  "news": []
 }
