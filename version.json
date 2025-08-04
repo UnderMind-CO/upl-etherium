@@ -5,11 +5,19 @@
         {
             "Id": 3,
             "Files": [
-                { "Path": "resources/app", "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icone.zip" }
-            ],
+                { 
+                    "Path": "resources/app", 
+                    "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icone.zip" 
+                }
+            ]
+        },
+        {
             "Id": 4,
-            "Files":[
-                { "Path": "resources/app", "Url": "https://download1587.mediafire.com/l2rpe6vejnqgCHKdmC1p7teaK__kcZkRr3tDHLSKLHdWssxjbYWHCgBI3yJwpVtu_zHj01YRgNhuBc3JSkUuypG3Gg4jSdl8BMFyl5YSeCM-7EkS9ZoDX5Qq5yKyYems-qj2fDUCU6hsxrwebs1XOgQp-ZH093LDLYwx3h0oRU42yQ/f2esbeqlmglaaid/icon.zip" }
+            "Files": [
+                { 
+                    "Path": "resources/app", 
+                    "Url": "https://download1587.mediafire.com/l2rpe6vejnqgCHKdmC1p7teaK__kcZkRr3tDHLSKLHdWssxjbYWHCgBI3yJwpVtu_zHj01YRgNhuBc3JSkUuypG3Gg4jSdl8BMFyl5YSeCM-7EkS9ZoDX5Qq5yKyYems-qj2fDUCU6hsxrwebs1XOgQp-ZH093LDLYwx3h0oRU42yQ/f2esbeqlmglaaid/icon.zip" 
+                }
             ]
         }
     ],
