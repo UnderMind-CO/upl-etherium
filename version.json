@@ -1,5 +1,5 @@
 {
-  "version": "0.3",
+  "version": "0.4",
   "LatestPatch": 1,
   "Patches": [
     {
@@ -9,5 +9,6 @@
         { "Path": "config/settings.cfg", "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/logotype.rar" }
       ]
     }
+  ]
   "news": []
 }
