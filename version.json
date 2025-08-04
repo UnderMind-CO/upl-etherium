@@ -1,14 +1,14 @@
 {
-  "version": "0.4",
-  "LatestPatch": 1,
-  "Patches": [
-    {
-      "Id": 1,
-      "Files": [
-        { "Path": "resourses/app/icon.ico", "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icone.zip" },
-        { "Path": "config/settings.cfg", "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/logotype.rar" }
-      ]
-    }
-  ],
-  "news": []
+    "version": "0.4",
+    "LatestPatch": 1,
+    "Patches": [
+        {
+            "Id": 1,
+            "Files": [
+                { "Path": "resourses/app/icon.ico", "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icone.zip" },
+                { "Path": "config/settings.cfg", "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/logotype.rar" }
+            ]
+        }
+    ],
+    "news": []
 }
