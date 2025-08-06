@@ -1,6 +1,6 @@
 {
     "version": "0.4",
-    "LatestPatch": 5,
+    "LatestPatch": 6,
     "Patches": [
         {
             "Id": 3,
@@ -17,6 +17,15 @@
                 { 
                     "Path": "./resources/app", 
                     "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icon.zip" 
+                }
+            ]
+        },
+        {
+            "Id": 6,
+            "Files": [
+                { 
+                    "Path": "./resources/app/testMediafire", 
+                    "Url": "https://download1507.mediafire.com/wcn26o3a01rg1IfgoMlqMcr2oBqOx6Foco4PACofMRW54OGVvm4RE5Y2I_KjYSgqKGAL7vcCJCPwnW1nTuckdETCDPubX2nwGyzKsL99lVJdoP2RUJ-fGotEHwJtbqyAO6hoItUF6Phee_mQBpe2cph_5kOrcz4o7CW8715SbMfhyHE/7r1cwwh9w1l3zt2/client.zip" 
                 }
             ]
         }
