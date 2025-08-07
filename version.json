@@ -1,6 +1,6 @@
 {
     "version": "0.4",
-    "BaseClientUrl": "https://api.play-asphar.com/api/cdn/Asphar-win32-x64.zip",
+   
     "LatestPatch": 6,
     "Patches": [
         {
