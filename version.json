@@ -1,7 +1,7 @@
 {
     "version": "0.4",
-   
     "LatestPatch": 6,
+
     "Patches": [
         {
             "Id": 3,
@@ -31,5 +31,25 @@
             ]
         }
     ],
-    "news": []
+
+    "news": [
+        {
+            "title": "Actualización 0.4 — Mejoras visuales y nuevo sistema de parches",
+            "description": "Presentamos una nueva interfaz más fluida, soporte para descargas simultáneas y un sistema de actualización inteligente.",
+            "image": "https://raw.githubusercontent.com/UnderMind-CO/UplauncherData/main/images/update_0_4.jpg",
+            "url": "https://github.com/UnderMind-CO/Uplauncher/releases/tag/v0.4"
+        },
+        {
+            "title": "Evento de Halloween 🎃",
+            "description": "¡Disfruta del evento especial de Halloween! Nuevos fondos dinámicos, efectos visuales y recompensas exclusivas.",
+            "image": "https://raw.githubusercontent.com/UnderMind-CO/UplauncherData/main/images/halloween_event.jpg",
+            "url": "https://undermind-co.github.io/uplauncher/halloween"
+        },
+        {
+            "title": "Servidor de prueba disponible",
+            "description": "Prueba antes que nadie las nuevas características del cliente experimental. ¡Tu feedback importa!",
+            "image": "https://raw.githubusercontent.com/UnderMind-CO/UplauncherData/main/images/beta_server.jpg",
+            "url": "https://discord.gg/undermind"
+        }
+    ]
 }
