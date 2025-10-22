@@ -1,55 +1,41 @@
 {
-    "version": "0.4",
-    "LatestPatch": 6,
-
-    "Patches": [
+  "version": "0.5",
+  "LatestPatch": 6,
+  "Patches": [
+    {
+      "Id": 3,
+      "Files": [
         {
-            "Id": 3,
-            "Files": [
-                { 
-                    "Path": "resources/app", 
-                    "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icone.zip" 
-                }
-            ]
-        },
-        {
-            "Id": 5,
-            "Files": [
-                { 
-                    "Path": "./resources/app", 
-                    "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icon.zip" 
-                }
-            ]
-        },
-        {
-            "Id": 6,
-            "Files": [
-                { 
-                    "Path": "./resources/app/testMediafire", 
-                    "Url": "https://download1507.mediafire.com/3f8p58gve1yg10zslLHqS77Pfo8D8HN3gsd7Q6regRsL0GQlcjznpRsu8M1sY73SS0mYywaH2Nrzw6Of7e9K1ua0Ncp4-Yj9jVtzqx8EQvczmemha7iYPMvHDn4Kd7rTNxH9fZfpB-d2-xry_ZJBGWQ2FV2dhfMYnP9_k3vs8jo/7r1cwwh9w1l3zt2/client.zip" 
-                }
-            ]
+          "Path": "resources/app",
+          "Url": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/icone.zip"
         }
-    ],
-
-    "news": [
+      ]
+    },
+    {
+      "Id": 6,
+      "Files": [
         {
-            "title": "Actualización 0.4 — Mejoras visuales y nuevo sistema de parches",
-            "description": "Presentamos una nueva interfaz más fluida, soporte para descargas simultáneas y un sistema de actualización inteligente.",
-            "image": "https://raw.githubusercontent.com/UnderMind-CO/UplauncherData/main/images/update_0_4.jpg",
-            "url": "https://github.com/UnderMind-CO/Uplauncher/releases/tag/v0.4"
-        },
-        {
-            "title": "Evento de Halloween 🎃",
-            "description": "¡Disfruta del evento especial de Halloween! Nuevos fondos dinámicos, efectos visuales y recompensas exclusivas.",
-            "image": "https://raw.githubusercontent.com/UnderMind-CO/UplauncherData/main/images/halloween_event.jpg",
-            "url": "https://undermind-co.github.io/uplauncher/halloween"
-        },
-        {
-            "title": "Servidor de prueba disponible",
-            "description": "Prueba antes que nadie las nuevas características del cliente experimental. ¡Tu feedback importa!",
-            "image": "https://raw.githubusercontent.com/UnderMind-CO/UplauncherData/main/images/beta_server.jpg",
-            "url": "https://discord.gg/undermind"
+          "Path": "./resources/app/testMediafire",
+          "Url": "https://download1507.mediafire.com/3f8p58gve1yg10zslLHqS77Pfo8D8HN3gsd7Q6regRsL0GQlcjznpRsu8M1sY73SS0mYywaH2Nrzw6Of7e9K1ua0Ncp4-Yj9jVtzqx8EQvczmemha7iYPMvHDn4Kd7rTNxH9fZfpB-d2-xry_ZJBGWQ2FV2dhfMYnP9_k3vs8jo/7r1cwwh9w1l3zt2/client.zip"
         }
-    ]
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Pack del Guerrero disponible",
+      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/assets/news1.png",
+      "url": "https://github.com/UnderMind-CO"
+    },
+    {
+      "title": "Evento del Sol Dorado",
+      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/assets/news2.png",
+      "url": "https://github.com/UnderMind-CO"
+    },
+    {
+      "title": "Nuevo modo cooperativo",
+      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/assets/news3.png",
+      "url": "https://github.com/UnderMind-CO"
+    }
+  ]
 }
