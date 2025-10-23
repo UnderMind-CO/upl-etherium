@@ -24,17 +24,17 @@
   "news": [
     {
       "title": "Pack del Guerrero disponible",
-      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/assets/news1.png",
+      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/refs/heads/main/R.jpeg",
       "url": "https://github.com/UnderMind-CO"
     },
     {
       "title": "Evento del Sol Dorado",
-      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/assets/news2.png",
+      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/refs/heads/main/ojos.jpg",
       "url": "https://github.com/UnderMind-CO"
     },
     {
       "title": "Nuevo modo cooperativo",
-      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/main/assets/news3.png",
+      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/refs/heads/main/banner-dofus.png",
       "url": "https://github.com/UnderMind-CO"
     }
   ]
