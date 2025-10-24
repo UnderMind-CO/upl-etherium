@@ -7,7 +7,7 @@
       "Files": [
         {
           "Path": "./svg/test",
-          "Url": "https://testfilehub.github.io/files/ZIP/1mb.ZIP"
+          "Url": "https://github.com/termux/termux-app/archive/refs/tags/v0.118.3.zip"
         }
       ]
     },
@@ -16,7 +16,7 @@
       "Files": [
         {
           "Path": "./resources/app/testMediafire",
-          "Url": "https://file-examples.com/wp-content/storage/2017/02/zip_10MB.zip"
+          "Url": "https://download1347.mediafire.com/309carr0txjgrAByueJ6hmPpHzn8NqUQe0cqFFtuPL6BMdd9Clgf2OHgp-k7Me6dcPq5Bnmiw35sTodljMoKXeMj-oec2GLIrSJRsl6V4MOanzQ2zDaJT7btqXwAMoCGlZXwug7fXGfMxu1QUggL7GMSojMOr-jhu9rVoIEcGEgvq1Q/3q4mbkmrok9vclh/VOSviewer_1.6.20_exe.zip"
         }
       ]
     }
