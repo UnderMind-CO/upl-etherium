@@ -1,17 +1,37 @@
 {
   "Languages": [
     {
-      "LanguageCode": "es",
+      "LanguageCode": "fr",
       "GameFile": {
-        "Url": "https://download1347.mediafire.com/309carr0txjgrAByueJ6hmPpHzn8NqUQe0cqFFtuPL6BMdd9Clgf2OHgp-k7Me6dcPq5Bnmiw35sTodljMoKXeMj-oec2GLIrSJRsl6V4MOanzQ2zDaJT7btqXwAMoCGlZXwug7fXGfMxu1QUggL7GMSojMOr-jhu9rVoIEcGEgvq1Q/3q4mbkmrok9vclh/VOSviewer_1.6.20_exe.zip",
-         "Path": "./game",
+        "Url": "https://fv5-4.files.fm/down.php?i=afs4v8bfhp&n=i18n_fr.rar",
+        "Path": "./game",
         "FileSize": 2048576
       }
-   
+    },
+    {
+      "LanguageCode": "en",
+      "GameFile": {
+        "Url": "https://download1347.mediafire.com/3o9carp0tx1grABvueJ6hmP6Hzn8NqU0eg0FEtuPL6BMdd0Clef2QHeo-k7Me6dcPq5Bpmiu35sTodiJMcKXeWj-oec2GLIr5JRs16V4MQpnzQ2zDaJT7btqx",
+        "Path": "./game",
+        "FileSize": 2048576
+      }
+    },
+    {
+      "LanguageCode": "es",
+      "GameFile": {
+        "Url": "https://download1347.mediafire.com/3o9carp0tx1grABvueJ6hmP6Hzn8NqU0eg0FEtuPL6BMdd0Clef2QHeo-k7Me6dcPq5Bpmiu35sTodiJMcKXeWj-oec2GLIr5JRs16V4MQpnzQ2zDaJT7btqx",
+        "Path": "./game",
+        "FileSize": 2048576
+      }
+    },
+    {
+      "LanguageCode": "pt",
+      "GameFile": {
+        "Url": "https://download1347.mediafire.com/3o9carp0tx1grABvueJ6hmP6Hzn8NqU0eg0FEtuPL6BMdd0Clef2QHeo-k7Me6dcPq5Bpmiu35sTodiJMcKXeWj-oec2GLIr5JRs16V4MQpnzQ2zDaJT7btqx",
+        "Path": "./game",
+        "FileSize": 2048576
+      }
     }
   ]
-
 }
-
-
 
