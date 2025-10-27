@@ -3,7 +3,7 @@
     {
       "LanguageCode": "fr",
       "GameFile": {
-        "Url": "https://fv5-4.files.fm/down.php?i=afs4v8bfhp&n=i18n_fr.rar",
+        "Url": "https://download1346.mediafire.com/c5hfvk9pnzygtcKdHb-JwVKBZvEjSiRmbwGCfRN2DdkWA39hfv4i-2Tbh8GdioYOXpSYmtinGV7fX2ldSU1WrPvHGRCrTl9fRDf4X4TWf8zPktMkIz2l9zPGp2vKMVdFRRCg1778eOtbtN6t9dBM2Ei6Be_2SNgCCnQwi7jP9iFUUp8/talpac6ifgcqtt7/i18n_fr.rar",
         "Path": "./game",
         "FileSize": 2048576
       }
@@ -11,7 +11,7 @@
     {
       "LanguageCode": "en",
       "GameFile": {
-        "Url": "https://download1347.mediafire.com/3o9carp0tx1grABvueJ6hmP6Hzn8NqU0eg0FEtuPL6BMdd0Clef2QHeo-k7Me6dcPq5Bpmiu35sTodiJMcKXeWj-oec2GLIr5JRs16V4MQpnzQ2zDaJT7btqx",
+        "Url": "https://download1078.mediafire.com/xdiipmsnoirgksKJl3EwO2Ohn0jiybFbqNqybtw-9Fbwb512WdX4qJtfR2BEneP3McH_dcUc4uBpZMCe0fGA61jrG7-TqnMqcmL0DPrrev-KizTFTydlCdP9yUXS8UVbpJoqlv55uh8EorugdMpO4u1QdKcCevhSk1aXLBZv5CikyAY/i6aqfat7zoug1s2/i18n_en.rar",
         "Path": "./game",
         "FileSize": 2048576
       }
@@ -19,7 +19,7 @@
     {
       "LanguageCode": "es",
       "GameFile": {
-        "Url": "https://download1347.mediafire.com/3o9carp0tx1grABvueJ6hmP6Hzn8NqU0eg0FEtuPL6BMdd0Clef2QHeo-k7Me6dcPq5Bpmiu35sTodiJMcKXeWj-oec2GLIr5JRs16V4MQpnzQ2zDaJT7btqx",
+        "Url": "https://download1479.mediafire.com/ekyozkl4g4bgDQ10cyWMb1XuX0b7-1b5rd6Z_zdLgS-awYaFBioEriggPYaywYNDi4Vf2sKU3qaoF-JAGBBPoxvXmA-a12lFGiMeQYcYrmUySNF0OrlgRgsdNhdSqQt5kKfv5vGO3fc82M4VzwMTVam3GDKD95woAMD4XIJt8G1pUXI/yuetfviibizdjey/i18n_es.rar",
         "Path": "./game",
         "FileSize": 2048576
       }
@@ -34,4 +34,5 @@
     }
   ]
 }
+
 
