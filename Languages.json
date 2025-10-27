@@ -4,7 +4,7 @@
       "LanguageCode": "es",
       "GameFile": {
         "Url": "https://download1347.mediafire.com/309carr0txjgrAByueJ6hmPpHzn8NqUQe0cqFFtuPL6BMdd9Clgf2OHgp-k7Me6dcPq5Bnmiw35sTodljMoKXeMj-oec2GLIrSJRsl6V4MOanzQ2zDaJT7btqXwAMoCGlZXwug7fXGfMxu1QUggL7GMSojMOr-jhu9rVoIEcGEgvq1Q/3q4mbkmrok9vclh/VOSviewer_1.6.20_exe.zip",
-        "FileName": "i18n_en.dat",
+         "Path": "./data/ui/test",
         "FileSize": 2048576
       }
    
@@ -12,4 +12,5 @@
   ]
 
 }
+
 
