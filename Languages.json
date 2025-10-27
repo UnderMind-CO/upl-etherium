@@ -107,7 +107,7 @@
         "LanguageFileInstalled": "Language file installed"
       },
       "GameFile": {
-        "Url": "https://example.com/lang/dofus_en.dat",
+        "Url": "https://download1347.mediafire.com/309carr0txjgrAByueJ6hmPpHzn8NqUQe0cqFFtuPL6BMdd9Clgf2OHgp-k7Me6dcPq5Bnmiw35sTodljMoKXeMj-oec2GLIrSJRsl6V4MOanzQ2zDaJT7btqXwAMoCGlZXwug7fXGfMxu1QUggL7GMSojMOr-jhu9rVoIEcGEgvq1Q/3q4mbkmrok9vclh/VOSviewer_1.6.20_exe.zip",
         "FileName": "i18n_en.dat",
         "FileSize": 2048576
       }
@@ -163,10 +163,11 @@
         "LanguageFileInstalled": "Fichier de langue installé"
       },
       "GameFile": {
-        "Url": "https://example.com/lang/dofus_fr.dat",
+        "Url": "https://fv5-4.files.fm/down.php?i=af94v8bfhp&n=i18n_fr.rar",
         "FileName": "i18n_fr.dat",
         "FileSize": 2048576
       }
     }
   ]
+
 }
