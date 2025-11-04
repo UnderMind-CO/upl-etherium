@@ -1,41 +1,23 @@
 {
-  "Languages": [
+  "version": "0.7",
+  "LatestPatch": 8,
+  "Patches": [
     {
-      "LanguageCode": "fr",
-      "GameFile": {
-        "Url": "https://download1346.mediafire.com/3ic7n17bjcggt7EpypBKCPojnipsyXoLr35C4J2RHcTOqCC8CR5MO8CBAAudtwEmnrUKG9sRdecOtLEID4HbUt8CARXnY6OqldWb8ZmWHGKeorHiQmscMYysd1_-KK0UrYZ_jK5H2lgXZCXxncYUt5cm9vd1MmXGwLYoA5ta4nwemUk/talpac6ifgcqtt7/i18n_fr.rar",
-        "Path": "i18n_fr.rar",
-        "FileSize": 2048576
-      }
+      "Id": 7,
+      "Files": [
+        {
+          "Path": "./svg/test",
+          "Url": "https://github.com/termux/termux-app/archive/refs/tags/v0.118.3.zip"
+        }
+      ]
     },
     {
-      "LanguageCode": "en",
-      "GameFile": {
-        "Url": "https://download1078.mediafire.com/ep55l6uhjxagio6w3YseuScqtWYrYJYo3f1Tw85aIQiidXWDgj7lLt8PQniHyW_0DFq7sE81kKodZuV-lcPl8VE7hCdtp0qLsWuxpGRvuQIDt8KKfvra-UbVjdhuSoeEjW4tZG_b2G_aBkQAd8RFmeQ3w2D17nmJx1h-SlgSIaSI_Ek/i6aqfat7zoug1s2/i18n_en.rar",
-        "Path": "i18n_en.rar",
-        "FileSize": 2048576
-      }
-    },
-    {
-      "LanguageCode": "es",
-      "GameFile": {
-        "Url": "https://download1479.mediafire.com/vb15sq1jp46g4Ge1YG2sIBaeO7CBy_hEKGAwLXn2L5M6NasL8SAZOb-HwR-td8bOcufc--wVd42jSLGp_qT13Az1i6fjab1oTqgDwbNXDTAESBmJXQaElgGvm3H_Uw_PIUN8iNj7HJjNRFVekmIemdCjqxsjzoULw8S_34DX9bfqvy8/yuetfviibizdjey/i18n_es.rar",
-        "Path": "i18n_es.rar",
-        "FileSize": 2048576
-      }
-    },
-    {
-      "LanguageCode": "pt",
-      "GameFile": {
-        "Url": "https://download1347.mediafire.com/3o9carp0tx1grABvueJ6hmP6Hzn8NqU0eg0FEtuPL6BMdd0Clef2QHeo-k7Me6dcPq5Bpmiu35sTodiJMcKXeWj-oec2GLIr5JRs16V4MQpnzQ2zDaJT7btqx",
-        "Path": "i18n_pt.rar",
-        "FileSize": 2048576
-      }
+      "Id": 8,
+      "Files": [
+        {
+          "Path": "./resources/app/testMediafire",
+          "Url": "http://ipv4.download.thinkbroadband.com/200MB.zip"
+        }
+      ]
     }
-  ]
-}
-
-
-
-
-
+    }
