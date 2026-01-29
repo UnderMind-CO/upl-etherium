@@ -1,34 +1,28 @@
 {
-  {
-  "version": "2.42.0",
-  "files": [
-    {
-      "path": "App",
-      "url": "https://drive.usercontent.google.com/download?id=1p4yyY3o5U2W3zpOHqs2uWF-Yw0sFNLp7&export=download&authuser=0&confirm=t&uuid=f3c07307-72ef-45a4-9739-d8d031109b1e&at=APcXIO29bBGb316wBEhCAE4KPT7B%3A1769702065688",
-      "sha256": "e189b3186e22db45fe396f7eb225340b9f0ec23e121e6439e8b29cd9afb62cc7"
-    }
-  ]
-},
   "launcher": {
     "version": "0.1.1",
-    "url": "https://drive.usercontent.google.com/download?id=1p4yyY3o5U2W3zpOHqs2uWF-Yw0sFNLp7&export=download&authuser=0&confirm=t&uuid=f3c07307-72ef-45a4-9739-d8d031109b1e&at=APcXIO29bBGb316wBEhCAE4KPT7B%3A1769702065688",
+    "url": "https://TU_URL_DIRECTA_AL_INSTALADOR.exe",
     "notesUrl": "https://tu-web.com/launcher/notes/0.1.1"
+  },
+  "client": {
+    "version": "2.42.0",
+    "files": [
+      {
+        "path": "AppBase.rar",
+        "url": "https://drive.usercontent.google.com/download?id=1p4yyY3o5U2W3zpOHqs2uWF-Yw0sFNLp7&export=download&authuser=0&confirm=t&uuid=f3c07307-72ef-45a4-9739-d8d031109b1e&at=APcXIO29bBGb316wBEhCAE4KPT7B%3A1769702065688",
+        "sha256": "e189b3186e22db45fe396f7eb225340b9f0ec23e121e6439e8b29cd9afb62cc7"
+      }
+    ]
   },
   "patches": [
     {
       "version": "2.42.1",
       "files": [
         {
-          "path": "data/maps/update1",
+          "path": "data/maps/update1.zip",
           "url": "https://drive.usercontent.google.com/download?id=18_FYsoI1Hk7WM_Wyewlne_NJbV-oIIFD&export=download&authuser=0&confirm=t&uuid=8dbbfaa1-5ff8-48ce-a2c3-543c2004990e&at=APcXIO1z-ZQ7_9SU_SQ19uCeVREQ:1769702232802",
           "sha256": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
           "size": 12345678
-        },
-        {
-          "path": "data/maps/update",
-          "url": "https://drive.usercontent.google.com/download?id=18_FYsoI1Hk7WM_Wyewlne_NJbV-oIIFD&export=download&authuser=0&confirm=t&uuid=8dbbfaa1-5ff8-48ce-a2c3-543c2004990e&at=APcXIO1z-ZQ7_9SU_SQ19uCeVREQ:1769702232802",
-          "sha256": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-          "size": 123456
         }
       ]
     }
