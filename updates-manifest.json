@@ -1,7 +1,7 @@
 {
   "launcher": {
     "version": "0.1.1",
-    "url": "https://link.testfile.org/500MB",
+    "url": "https://drive.usercontent.google.com/download?id=1p4yyY3o5U2W3zpOHqs2uWF-Yw0sFNLp7&export=download&authuser=0&confirm=t&uuid=f3c07307-72ef-45a4-9739-d8d031109b1e&at=APcXIO29bBGb316wBEhCAE4KPT7B%3A1769702065688",
     "notesUrl": "https://tu-web.com/launcher/notes/0.1.1"
   },
   "patches": [
@@ -9,14 +9,14 @@
       "version": "2.42.1",
       "files": [
         {
-          "path": "Dofus.exe",
-          "url": "https://link.testfile.org/30MB",
+          "path": "data/maps/update1",
+          "url": "https://drive.usercontent.google.com/download?id=18_FYsoI1Hk7WM_Wyewlne_NJbV-oIIFD&export=download&authuser=0&confirm=t&uuid=8dbbfaa1-5ff8-48ce-a2c3-543c2004990e&at=APcXIO1z-ZQ7_9SU_SQ19uCeVREQ:1769702232802",
           "sha256": "HEX_SHA256_AQUI",
           "size": 12345678
         },
         {
-          "path": "data/maps/maps0.d2p",
-          "url": "https://link.testfile.org/30MB",
+          "path": "data/maps/update",
+          "url": "https://drive.usercontent.google.com/download?id=18_FYsoI1Hk7WM_Wyewlne_NJbV-oIIFD&export=download&authuser=0&confirm=t&uuid=8dbbfaa1-5ff8-48ce-a2c3-543c2004990e&at=APcXIO1z-ZQ7_9SU_SQ19uCeVREQ:1769702232802",
           "sha256": "HEX_SHA256_AQUI",
           "size": 123456
         }
