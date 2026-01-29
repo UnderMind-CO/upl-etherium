@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "title": "Bienvenido a Etherum",
+      "description": "Eventos, cambios y novedades de la semana.",
+      "url": "https://tu-web.com/noticias/1",
+      "imageUrl": "https://tu-cdn.com/assets/news/hero.jpg",
+      "logoUrl": "https://tu-cdn.com/assets/brand/game-logo.png"
+    },
+    {
+      "title": "Actualización semanal",
+      "description": "Balance y correcciones.",
+      "url": "/noticias/weekly",
+      "imageUrl": "/assets/news/weekly.jpg"
+    }
+  ]
+}
+
+
