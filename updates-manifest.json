@@ -11,13 +11,13 @@
         {
           "path": "data/maps/update1",
           "url": "https://drive.usercontent.google.com/download?id=18_FYsoI1Hk7WM_Wyewlne_NJbV-oIIFD&export=download&authuser=0&confirm=t&uuid=8dbbfaa1-5ff8-48ce-a2c3-543c2004990e&at=APcXIO1z-ZQ7_9SU_SQ19uCeVREQ:1769702232802",
-          "sha256": "HEX_SHA256_AQUI",
+          "sha256": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
           "size": 12345678
         },
         {
           "path": "data/maps/update",
           "url": "https://drive.usercontent.google.com/download?id=18_FYsoI1Hk7WM_Wyewlne_NJbV-oIIFD&export=download&authuser=0&confirm=t&uuid=8dbbfaa1-5ff8-48ce-a2c3-543c2004990e&at=APcXIO1z-ZQ7_9SU_SQ19uCeVREQ:1769702232802",
-          "sha256": "HEX_SHA256_AQUI",
+          "sha256": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
           "size": 123456
         }
       ]
