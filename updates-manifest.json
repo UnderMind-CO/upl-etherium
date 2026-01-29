@@ -1,0 +1,26 @@
+{
+  "launcher": {
+    "version": "0.1.1",
+    "url": "https://link.testfile.org/500MB",
+    "notesUrl": "https://tu-web.com/launcher/notes/0.1.1"
+  },
+  "patches": [
+    {
+      "version": "2.42.1",
+      "files": [
+        {
+          "path": "Dofus.exe",
+          "url": "https://link.testfile.org/30MB",
+          "sha256": "HEX_SHA256_AQUI",
+          "size": 12345678
+        },
+        {
+          "path": "data/maps/maps0.d2p",
+          "url": "https://link.testfile.org/30MB",
+          "sha256": "HEX_SHA256_AQUI",
+          "size": 123456
+        }
+      ]
+    }
+  ]
+}
