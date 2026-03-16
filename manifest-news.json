@@ -1,26 +1,20 @@
 {
   "news": [
     {
-      "title": "Bienvenido a Etherum",
-      "description": "Eventos, cambios y novedades de la semana.",
-      "url": "https://tu-web.com/noticias/1",
-      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/refs/heads/main/banner-dofus.png",
-      "logoUrl": "https://tu-cdn.com/assets/brand/game-logo.png"
+      "title": "Welcom to Etherum",
+      "description": "The launch of the website has become a reality.",
+      "url": "https://etherum-server.fun/news/2/official-launch-of-website",
+      "imageUrl": "https://etherum-server.fun/imgs/news/post_69b5e4dd18ccd7.38126754.png",
+      "logoUrl": "https://etherum-server.fun/imgs/news/post_69b5e4dd18ccd7.38126754.png"
     },
     {
-      "title": "Actualización semanal",
-      "description": "Balance y correcciones.",
-      "url": "/noticias/weekly",
-      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/refs/heads/main/R.jpeg",
-      "logoUrl": "https://tu-cdn.com/assets/brand/game-logo.png"
+      "title": "Double Bonus Vote x2",
+      "description": "Vote & Win.",
+      "url": "https://etherum-server.fun/news/3/double-votevote-x2",
+      "imageUrl": "https://etherum-server.fun/imgs/news/post_69b6c6c58d6839.94116850.png",
+      "logoUrl": "https://etherum-server.fun/imgs/news/post_69b6c6c58d6839.94116850.png"
     },
-    {
-      "title": "Actualización Test",
-      "description": "Prueba API.",
-      "url": "/noticias/weekly",
-      "imageUrl": "https://raw.githubusercontent.com/UnderMind-CO/upl-etherium/refs/heads/main/ojos.jpg",
-      "logoUrl": "https://tu-cdn.com/assets/brand/game-logo.png"
-    }
+ 
   ]
 }
 
