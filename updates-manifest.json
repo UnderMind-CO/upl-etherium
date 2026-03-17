@@ -1,7 +1,7 @@
 {
   "launcher": {
     "version": "0.1.0",
-    "url": "https://github.com/Ether-s-Project/Etherium-Client/releases/download/v1.0/Etherum_Installer.msi",
+    "url": "https://github.com/Ether-s-Project/Etherium-Client/releases/download/install_v0.1/uplauncher_0.1.0_x64_en-US.msi",
     "notesUrl": "https://etherum-server.fun/news"
   },
   "client": {
@@ -10,9 +10,9 @@
       {
         "path": "Etherum_app.rar",
         "url": [
-          "https://drive.usercontent.google.com/download?id=1u-Dm9oQgwyIhld1v-ZPzvRuei-UB8xRO&export=download&authuser=0&confirm=t&uuid=dbdea12b-ff9d-4419-b1fa-c0f0bdf53565&at=APcXIO04mKi4hGm9u-EyZLAtCI6A%3A1771861142316"
+          "https://drive.usercontent.google.com/download?id=1m0lCdN-e6xMErhZPeKVngsC__chWY3-Q&export=download&authuser=0&confirm=t&uuid=f32bc412-2241-4c74-96f4-d069d9a815aa&at=AGN2oQ0G4pWuOH5Hrz4sarOnUK-x%3A1773709317140"
         ],
-        "sha256": "04d54f256fc23cd64dbd116b1bfc4f85aed3df954bc0453b8bf3",
+        "sha256": "E6019BF6B0D5E4CA171FD287437535055A57EBB31E50EE8AF71898F44FE255EB",
         "size": 4000000000
       }
     ]
