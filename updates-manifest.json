@@ -18,6 +18,17 @@
     ]
   },
   "patches": [
+    {
+      "version": "2.42.1",
+      "files": [
+        {
+          "path": "Etherum_app/data/common.rar",
+          "url": [
+            "https://2016-2.filemail.com/api/file/get?filekey=7fbpu8gDXSn3bQdiJ5T3bjVhJqyHvZHkDzpQSYxmfxuOv0n-jN5akytW6wE"
+          ],
+          "sha256": "A32713C085798AA3CF3FC2F1B42755DC291073A95467070E936FDAC2B2EB4CFB",
+          "size": 7380000
+        }
     
       ]
     }
