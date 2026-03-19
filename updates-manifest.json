@@ -10,7 +10,7 @@
       {
         "path": "Etherum_app.rar",
         "url": [
-          "https://1008.filemail.com/api/file/get?filekey=DQ5e_kWzaEUhgS06ts-TOCQBdEFKClfb8UTnXH65bHBROKIUdvQsu1Bkn_6uuDXpUg"
+          "https://1007.filemail.com/api/file/get?filekey=b7mCcHpW7KOIz_6NXjIO5oDDIMfY9_gFhcwpvYb2_4bfdaT5a2hEFRbq2tl0QAQCDw"
         ],
         "sha256": "04d54f256fc23cd64dbd116b1bfc4f85aed3df954bc0453b8bf3",
         "size": 4000000000
@@ -18,17 +18,7 @@
     ]
   },
   "patches": [
-    {
-      "version": "2.42.1",
-      "files": [
-        {
-          "path": "Etherum_app/data/common.rar",
-          "url": [
-            "https://2016-2.filemail.com/api/file/get?filekey=7fbpu8gDXSn3bQdiJ5T3bjVhJqyHvZHkDzpQSYxmfxuOv0n-jN5akytW6wE"
-          ],
-          "sha256": "A32713C085798AA3CF3FC2F1B42755DC291073A95467070E936FDAC2B2EB4CFB",
-          "size": 7380000
-        }
+   
     
       ]
     }
