@@ -19,7 +19,17 @@
   },
   "patches": [
    
-    
+      {
+      "version": "2.42.1",
+      "files": [
+        {
+          "path": "Etherum_app/ui/Ankama_Web.rar",
+          "url": [
+            "https://2016-2.filemail.com/api/file/get?filekey=ZWJ2IEabWquQSMzMlS6TVJoYKtjc2PNsOyikjsC9T_BiRwSNPaWmrVGokXLGsVrN"
+          ],
+          "sha256": "8E68DB88BDCFC34FFBB6D5D21CDC1E10D899D5D3825301A3B0FAAAF386F9DB90",
+          "size": 17000000
+        }
       ]
     }
  
