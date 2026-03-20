@@ -1,4 +1,4 @@
-{
+  {
   "launcher": {
     "version": "0.1.0",
     "url": "https://github.com/Ether-s-Project/Etherium-Client/releases/download/install_v0.1/uplauncher_0.1.0_x64_en-US.msi",
@@ -9,27 +9,23 @@
     "files": [
       {
         "path": "Etherum_app.rar",
-        "url": [
-          "https://3003.filemail.com/api/file/get?filekey=GiFwSj3BS8nWYxGovrgcsDKuVWBPHivh3m8ub_Q20DWHIZb0p5-iR64Uo4moLVS63A"
-        ],
+        "url": "https://3003.filemail.com/api/file/get?filekey=GiFwSj3BS8nWYxGovrgcsDKuVWBPHivh3m8ub_Q20DWHIZb0p5-iR64Uo4moLVS63A",
         "sha256": "04d54f256fc23cd64dbd116b1bfc4f85aed3df954bc0453b8bf3",
         "size": 4000000000
       }
     ]
   },
   "patches": [
-   
-      {
+    {
       "version": "2.42.1",
       "files": [
         {
           "path": "Etherum_app/ui/Ankama_Web.rar",
-          "url": [
-            "https://2016-2.filemail.com/api/file/get?filekey=ZWJ2IEabWquQSMzMlS6TVJoYKtjc2PNsOyikjsC9T_BiRwSNPaWmrVGokXLGsVrN"
-          ],
+          "url": "https://2016-2.filemail.com/api/file/get?filekey=ZWJ2IEabWquQSMzMlS6TVJoYKtjc2PNsOyikjsC9T_BiRwSNPaWmrVGokXLGsVrN",
           "sha256": "8E68DB88BDCFC34FFBB6D5D21CDC1E10D899D5D3825301A3B0FAAAF386F9DB90",
           "size": 17000000
         }
       ]
     }
- 
+  ]
+}
